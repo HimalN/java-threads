@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1.thread-types/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.thread-types/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2.extended-thread-class/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2.extended-thread-class/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3.extended-runnable-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3.extended-runnable-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.threads-using-lambda/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.threads-using-lambda/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5.join-IsAlive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5.join-IsAlive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.thread-priority/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.thread-priority/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.synchonize/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.synchonize/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
